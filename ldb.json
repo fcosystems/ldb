@@ -1,0 +1,9 @@
+{
+    "DbUserName": "user",
+    "DbPassword": "password",
+    "DbHost": "host",
+    "DbName": "dbname",
+    "MemcacheHost": "localhost",
+    "MemcachePort": "11211"
+}
+
