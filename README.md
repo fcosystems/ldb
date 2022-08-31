@@ -1,4 +1,4 @@
-# ldb
+# LDB
 
 This is a very easy way to use mysql/mariadb with GOLANG.
 This library also permit use MEMCACHE at the same time.
@@ -13,4 +13,4 @@ I hope this project will be useful.
 
 I'll be very gratefully of any comment.
 
-
+sistemaslinux@hotmail.com
